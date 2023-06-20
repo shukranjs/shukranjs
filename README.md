@@ -44,7 +44,7 @@
 [![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas&link=https://github.com/shukranjs)](https://github.com/shukranjs) 
 <!-- [![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/shukranjs)](https://github.com/shukranjs)  -->
 <br/>
-[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&link=https://github.com/shukranjs)](https://github.com/shukranjs) 
+
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&link=https://github.com/shukranjs)](https://github.com/shukranjs) 
 [![Linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&link=https://github.com/shukranjs)](https://github.com/shukranjs) 
