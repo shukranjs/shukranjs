@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, My name is Shukran
 - I'm a backend developer
-- Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / Vue/ React/ MySQL / PostgreSQL / Redis / Docker 
+- Skils: Python / Django / Flask / FastAPI/ RestApi / HTML / CSS / JS / Vue/ React/ MySQL / PostgreSQL / Redis / Docker 
 - Check it if you want to contact me. EMail: shukranrma@gmail.com 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
